@@ -95,7 +95,7 @@ footer {
 /* Footer links stacked below message */
 footer a {
     display: block;
-    color: black;
+    color: #91b9fa;
     text-decoration: none;
     margin: 5px 0;
 }
